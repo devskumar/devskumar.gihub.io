@@ -12,7 +12,16 @@
       <link>http://localhost:1313/post/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/test/</guid>
-      <description></description>
+      <description>I really like using Markdown.
+I think I&amp;rsquo;ll use it to format all of my documents from now on.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test2/</guid>
+      <description>testing again
+this s a frsghbv vrtsrav vsrfgs v sg</description>
     </item>
   </channel>
 </rss>
