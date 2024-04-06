@@ -1,3 +1,3 @@
-[submodule "themes/vampire"]
-	path = themes/vampire
-	url = https://github.com/devskumar/hugo-vampire.git
+[submodule "themes/DarkSun"]
+	path = themes/DarkSun
+	url = https://github.com/devskumar/hugo-DarkSun.git
